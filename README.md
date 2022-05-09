@@ -1,9 +1,7 @@
 # My stats
 [![Fauwzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauwzk&theme=gruvbox&show_icons=true&line_height=27&count_private=true)](https://github.com/fauwzk)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&layout=compact)](https://github.com/fauwzk)
 # What I've been programing for the week
-[![Fauwzk's GitHub stats](https://wakatime.com/share/@fauwzk/34501669-c1ff-4c6e-922c-db1d092eed58.svg)](https://github.com/fauwzk)
 <!--START_SECTION:waka-->
 
 ```text
