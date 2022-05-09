@@ -1,10 +1,10 @@
 ## My GitHub Stats
 <a href="https://github.com/fauwzk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauwzk&show_icons=true&line_height=27&count_private=tru&theme=codeSTACKr" alt="Fauwzk's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauwzk&show_icons=true&line_height=27&count_private=tru&theme=github_dark" alt="Fauwzk's GitHub Stats" />
 </a>
 
 <a href="https://github.com/fauwzk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&hide=lua&langs_count=3&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&hide=lua&langs_count=3&theme=github_dark" />
 </a>
 
 <!-- Resources -->
