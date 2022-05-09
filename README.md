@@ -1,6 +1,7 @@
 # My stats
 [![Fauwzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauwzk&theme=gruvbox&show_icons=true&line_height=27&count_private=true)](https://github.com/fauwzk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&layout=compact)](https://github.com/fauwzk)
+# Most used language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&theme=gruvbox)](https://github.com/fauwzk)
 # What I've been programing for the week
 <!--START_SECTION:waka-->
 
