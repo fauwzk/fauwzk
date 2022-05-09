@@ -11,7 +11,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-[![fauwzk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fauwzk)](https://github.com/fauwzk/)
 <!--
 **fauwzk/fauwzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
