@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&hide=lua&theme=dark&langs_count=3&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&hide=lua&langs_count=3&theme=radical" />
 </a>
 
 <!-- Resources -->
