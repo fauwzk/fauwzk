@@ -1,29 +1,25 @@
-# My stats
-[![Fauwzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauwzk&theme=gruvbox&show_icons=true&line_height=27&count_private=true)](https://github.com/fauwzk)
-# Most used language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&theme=gruvbox)](https://github.com/fauwzk)
-# What I've been programing for the week
-<!--START_SECTION:waka-->
+## My GitHub Stats
 
-```text
-Python       4 hrs 9 mins    ██████████████████████░░░   87.96 %
-HTML         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Batchfile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-```
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauwzk&hide=lua,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauwzk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fauwzk's GitHub Stats" />
+</a>
 
-<!--END_SECTION:waka-->
-<!--
-**fauwzk/fauwzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/fauwzk/ForzaTelemetryApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fauwzk&ForzaTelemetryApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/fauwzk/OpenIPScanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fauwzk&repo=OpenIPScanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
