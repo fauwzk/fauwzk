@@ -25,7 +25,7 @@
 
 ## Daily Used OSs: 
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)|![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)|![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
 
 
 <!-- Resources -->
