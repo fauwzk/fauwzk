@@ -3,6 +3,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauwzk&show_icons=true&line_height=27&count_private=tru&theme=github_dark" alt="Fauwzk's GitHub Stats" />
 </a>
 <!--START_SECTION:waka-->
+
+```text
+Python       6 hrs 24 mins   ███████████████████████░░   91.55 %
+HTML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Batchfile    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Tools used:
