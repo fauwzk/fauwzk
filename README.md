@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python    28 mins         █████████████████████████   99.82 %
-RPMSpec   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
