@@ -1,6 +1,6 @@
 ## My GitHub Stats:
 <a href="https://github.com/fauwzk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauwzk&show_icons=true&line_height=27&count_private=tru&theme=github_dark" alt="Fauwzk's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauwzk&show_icons=true&line_height=27&count_private=tru&theme=github_dark" alt="Fauwzk's GitHub Stats" />
 </a>
 
 ## Tools used:
